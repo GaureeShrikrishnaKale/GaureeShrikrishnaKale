@@ -12,3 +12,4 @@ ReactJS | JavaScript | TypeScript | Material-UI | TailwindCSS | NodeJS | Firebas
 
 ## 📈 GitHub Stats
 ![Gauree's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaureeShrikrishnaKale&show_icons=true&theme=radical)
+
